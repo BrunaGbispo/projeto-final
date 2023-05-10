@@ -16,8 +16,12 @@
     border-radius: 5px;
 }
 .tituloModelo{
+    text-align: center;
     font-size: 15px;
 }
 .precoCarro{
+    padding: 0;
+    margin: 0;
+    width: 100%;
     font-size: 10px;
 }
