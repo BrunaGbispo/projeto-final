@@ -23,7 +23,7 @@ return (
             </p>
         </div>
             <div className="buttonCard">
-                <button className='button'>Comprar Agora...</button>
+                <button className='button'>Comprar Agora....</button>
             </div>
         </div>
         </div>
