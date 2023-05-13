@@ -1,4 +1,6 @@
 import './App.css';
+import Exposição from './Componentes/exposicao/exposição';
+import Veiculos from './Componentes/Veiculos/Veiculos';
 import Compra from './Pages/Compra/Compra';
 import CarroDetalhes from './Componentes/CarrosDetalhes/CarrosDetalhes';
 import Imagemcarro from './Imagens/ford-mustang_2015_01.jpg'
@@ -6,12 +8,15 @@ import Imagemcarro1 from  './Imagens/Jeep Renegade 2016-min.jpg'
 
 import { BrowserRouter as Router, Route, Routes
 } from "react-router-dom";
+
 function App() {
   return (
     <div className="App">
       <Router>
           <Routes> 
-            <Route path="/" element={<Compra />} exact />
+            <Route path='/' element={<Exposição/>}/>
+          <Route path="/veiculos" element={<Veiculos />} exact />         
+            <Route path="/compra" element={<Compra />} exact />
           </Routes>
         </Router>
 
