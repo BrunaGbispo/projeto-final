@@ -10,7 +10,6 @@ export default function Exposição(props) {
     useEffect(()=>{
         axios.get(`https://api-equipe-5.onrender.com/itens/`)
         .then(response =>{
-            console.log(response.data.data)
             setDetails(response.data.data);
         })
         .catch(error =>{
