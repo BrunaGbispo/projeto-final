@@ -11,8 +11,7 @@ function Header() {
       </div>
       <nav>
         <ul>
-          <li><button>Modelos</button></li>
-          <li><button>Ofertas</button></li>
+          
         </ul>
       </nav>
     </header>
