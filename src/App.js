@@ -1,18 +1,18 @@
 import './App.css';
-import Titulo from './Componentes/Titulo/Titulo';
-import Veiculos from './Componentes/Veiculos/Veiculos';
-import Footer from './Componentes/Footer/Footer';
-import Header from './Componentes/Header/Header';
-
+import Compra from './Pages/Compra/Compra';
+import { BrowserRouter as Router, Route, Routes
+} from "react-router-dom";
 function App() {
   return (
     <div className="App">
-       <Header/>
-       <Titulo texto="Veículos"/>
-       <Veiculos />
-       <Footer/>
-
+      <Router>
+          <Routes> 
+            <Route path="/" element={<Compra />} exact />
+          </Routes>
+        </Router>
     </div>
+
+  
   );
 }
 
