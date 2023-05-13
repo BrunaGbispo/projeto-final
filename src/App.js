@@ -1,4 +1,5 @@
 import './App.css';
+import Exposição from './Componentes/exposicao/exposição';
 import Veiculos from './Componentes/Veiculos/Veiculos';
 import Compra from './Pages/Compra/Compra';
 import { BrowserRouter as Router, Route, Routes
@@ -9,7 +10,8 @@ function App() {
     <div className="App">
       <Router>
           <Routes> 
-          <Route path="/" element={<Veiculos />} exact />         
+            <Route path='/' element={<Exposição/>}/>
+          <Route path="/veiculos" element={<Veiculos />} exact />         
             <Route path="/compra" element={<Compra />} exact />
           </Routes>
         </Router>
