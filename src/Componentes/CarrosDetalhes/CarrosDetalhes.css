@@ -1,0 +1,27 @@
+
+.card-img-top {
+    height: 330px;
+    object-fit: cover;
+    width: 600px;
+    border-radius: 10px;
+  }
+
+.card-title{
+    font-weight: bold;
+    text-align: top;
+}
+
+
+.conteudo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 19px;
+ 
+  text-align: center;
+
+}
+
+
+
