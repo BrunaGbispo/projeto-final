@@ -6,5 +6,10 @@ export let veiculosImg =[
     "https://s2.glbimg.com/PKPZoFmGNir4dZuiHjtyxpwcy4A=/0x0:1980x1320/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/K/B/2XTT4uQ0elx739kirHKQ/jeep-renegade-33.jpeg",
     "https://live.dealer-asset.co/images/br1001/product/paintSwatch/vehicle/ford-brasil-bronco-sport-verde-fuji-27032023.jpg?s=1024",
     "https://quatrorodas.abril.com.br/wp-content/uploads/2021/05/range_rover_evoque_49.jpg?quality=70&strip=info",
-    "https://quatrorodas.abril.com.br/wp-content/uploads/2018/06/audi-a4-2019-1600-03-e1530114601340.jpg?quality=70&strip=info"
+    "https://quatrorodas.abril.com.br/wp-content/uploads/2018/06/audi-a4-2019-1600-03-e1530114601340.jpg?quality=70&strip=info",
+    "https://s2.glbimg.com/bS0C9x8vNjm95NEGh4xxW-ZGp44=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/e/9/b7AvAHSfiItLIivXkkRw/2019-03-12-201098-xc90-t8-r-design.jpg",
+    "https://revistacarro.com.br/wp-content/uploads/2021/04/Volvo-XC40-B4.jpg",
+    "https://garagem360.com.br/wp-content/uploads/2023/02/Novo-BMW-X1-quatro.jpg",
+    "https://revistacarro.com.br/?attachment_id=50148",
+    
 ]
