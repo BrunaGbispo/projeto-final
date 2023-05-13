@@ -11,5 +11,15 @@ export let veiculosImg =[
     "https://revistacarro.com.br/wp-content/uploads/2021/04/Volvo-XC40-B4.jpg",
     "https://garagem360.com.br/wp-content/uploads/2023/02/Novo-BMW-X1-quatro.jpg",
     "https://revistacarro.com.br/?attachment_id=50148",
-    
+    "https://www.planetcarsz.com/img/noticias/2023/03/bmw-x5-widebody-by-prior-design-2023-01-20230307180701-1600x1000.jpg",
+    "https://combustivel.app/imgs/t650/consumo-320i-gt-sport-2-0-turbo.jpg",
+    "https://thumbs.dreamstime.com/z/carro-de-jeep-wrangler-rubicon-genebra-su%C3%AD%C3%A7a-mar%C3%A7o-carshowcased-tipo-amarelo-palexpo-novo-moderno-do-transporte-ve%C3%ADculo-141980321.jpg",
+    "https://www.automaistv.com.br/wp-content/uploads/2023/01/jeep_avenger_e_first_edition_edited-990x594.jpg",
+    "https://quatrorodas.abril.com.br/wp-content/uploads/2020/05/QR-734-CLAS-BRONC-304-e1591275498503.jpg?quality=70&strip=info",
+    "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/17060_A9B2F4030268E6C0.jpg?w=1024",
+    "https://revistacarro.com.br/wp-content/uploads/2021/01/Range-Rover-Evoque_1.jpg",
+    "https://motorshow.com.br/wp-content/uploads/sites/2/2015/07/img-355583-porsche-cayenne-turbo-s.jpg",
+    "https://carangasegura.com/imgs/t650/consumo-sw4-srx-diamond-2-8-turbo-4x4-at.jpg",
+    "https://s3.amazonaws.com/www.revistacarro.com.br/static/images/uploads/audi-a4-txt3-350_620x350.jpg",
+    "https://www.hinor.com.br/blog/wp-content/uploads/2018/07/possante-audio.png"
 ]
