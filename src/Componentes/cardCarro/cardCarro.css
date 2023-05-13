@@ -10,7 +10,9 @@
     background-color: #0A0931;
     border-radius: 5px;
 }
-
+a{
+    text-decoration: none;
+}
 .imgCard{
     width: 7rem;
     border-radius: 5px;
