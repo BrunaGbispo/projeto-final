@@ -1,0 +1,10 @@
+#btnMenu{
+    background-color: transparent;
+    border: solid 4px hsla(250, 23%, 95%, 0.914);
+    margin: 5px;
+    font-size: 20px;
+    padding: 5px 15px;
+    text-align: right;
+    color: aliceblue;
+
+}
