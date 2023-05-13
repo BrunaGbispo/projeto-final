@@ -1,0 +1,12 @@
+
+.card-img-top {
+    height: 350px;
+    object-fit: cover;
+    width: 600px;
+  }
+
+.card-title{
+    font-weight: bold;
+    text-align: top;
+}
+
